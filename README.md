@@ -21,7 +21,7 @@ python main.py
 ```
 
 ## Contributing
-Feel free to report any bugs/issues that I could've missed, to enchance the quality of this program to the fullest.
+Feel free to report any bugs/issues that I could've missed to enchance the quality of this program to the fullest.
 
 
 ![image](https://github.com/kolmioo/K-Botter/assets/77176084/9c0576e6-e38f-4ebe-bafc-5cc24fb0bdde)
