@@ -1,7 +1,7 @@
 # What is K-Botter
 ![image](https://github.com/kolmioo/K-Botter/assets/77176084/a49901b3-fffb-4573-a1b2-89296499affd)
 
-K-Botter is a fast kahoot botter with an easy to use interface.
+K-Botter is a fast kahoot botter with an easy to use interface. THIS PROGRAM IS INTENDED FOR EDUCATIONAL PURPOSES ONLY.
 
 [Installation](#Installation)    |    [Usage](#Usage)    |   [Contributing](#Contributing)
 
