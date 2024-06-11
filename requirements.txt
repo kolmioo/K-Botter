@@ -1,0 +1,4 @@
+py_mini_racer==0.6.0
+pystyle==2.9
+Requests==2.32.3
+websocket_client==1.8.0
