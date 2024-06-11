@@ -17,3 +17,8 @@ Run the program and type in the required information.
 
 ## Contributing
 Feel free to report any bugs/issues that I could've missed, to enchance the quality of this program to the fullest.
+
+
+![image](https://github.com/kolmioo/K-Botter/assets/77176084/9c0576e6-e38f-4ebe-bafc-5cc24fb0bdde)
+
+![image](https://github.com/kolmioo/K-Botter/assets/77176084/c86efa33-a234-46d5-9d2a-6f64727b6c4a)
