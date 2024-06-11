@@ -7,7 +7,7 @@ THIS PROGRAM IS INTENDED FOR EDUCATIONAL PURPOSES ONLY.
 [Installation](#Installation)    |    [Usage](#Usage)    |   [Contributing](#Contributing)
 
 ## Installation
-Locate to the K-Botter root folder and use the package manager [pip](https://pypi.org/project/pip/), to install the required dependencies with the following command.
+Locate to the K-Botter root folder and use the package manager [pip](https://pip.pypa.io/en/stable), to install the required dependencies with the following command.
 
 ```bash
 pip install -r requirements.txt
