@@ -14,7 +14,11 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Run the program and type in the required information.
+Run main.py and type in the required information.
+
+```bash
+python main.py
+```
 
 ## Contributing
 Feel free to report any bugs/issues that I could've missed, to enchance the quality of this program to the fullest.
