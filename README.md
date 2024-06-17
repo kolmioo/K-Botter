@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Run main.py and type in the required information.
+Run main.py
 
 ```bash
 python main.py
