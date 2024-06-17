@@ -7,6 +7,8 @@ THIS PROGRAM IS INTENDED FOR EDUCATIONAL PURPOSES ONLY.
 [Installation](#Installation)    |    [Usage](#Usage)    |   [Contributing](#Contributing)
 
 ## Installation
+[Download latest release](https://github.com/kolmioo/K-Botter/releases/latest)
+
 Locate to the K-Botter root folder and use the package manager [pip](https://pip.pypa.io/en/stable), to install the required dependencies with the following command.
 
 ```bash
